@@ -1,0 +1,229 @@
+{
+    "geojson_configs": [
+        {
+            "name": "3",
+            "properties": [
+                {
+                    "file": "data/3th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "4",
+            "properties": [
+                {
+                    "file": "data/4th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "5",
+            "properties": [
+                {
+                    "file": "data/5th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "6",
+            "properties": [
+                {
+                    "file": "data/6th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "7",
+            "properties": [
+                {
+                    "file": "data/7th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "8",
+            "properties": [
+                {
+                    "file": "data/8th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "23",
+            "properties": [
+                {
+                    "file": "data/23th_khoroo_shadow.json",
+                    "name": "Shadow",
+                    "color": "red",
+                    "weight": 0,
+                    "fillOpacity": 0.7
+                },
+                {
+                    "file": "data/23th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "26",
+            "properties": [
+                {
+                    "file": "data/26th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                },
+                {
+                    "file": "data/26th_khoroo_shadow.json",
+                    "name": "Shadow",
+                    "color": "red",
+                    "weight": 0,
+                    "fillOpacity": 0.7
+                }
+            ]
+        },
+        {
+            "name": "30",
+            "properties": [
+                {
+                    "file": "data/30th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                },
+                {
+                    "file": "data/30th_khoroo_shadow.json",
+                    "name": "Shadow",
+                    "color": "red",
+                    "weight": 0,
+                    "fillOpacity": 0.7
+                }
+            ]
+        },
+        {
+            "name": "31",
+            "properties": [
+                {
+                    "file": "data/31th_khoroo_shadow.json",
+                    "name": "Shadow",
+                    "color": "red",
+                    "weight": 0,
+                    "fillOpacity": 0.7
+                },
+                {
+                    "file": "data/31th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "36",
+            "properties": [
+                {
+                    "file": "data/36th_khoroo_shadow.json",
+                    "name": "Shadow",
+                    "color": "red",
+                    "weight": 0,
+                    "fillOpacity": 0.7
+                },
+                {
+                    "file": "data/36th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "39",
+            "properties": [
+                {
+                    "file": "data/39th_khoroo_shadow.json",
+                    "name": "Shadow",
+                    "color": "red",
+                    "weight": 0,
+                    "fillOpacity": 0.7
+                },
+                {
+                    "file": "data/39th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+
+        {
+            "name": "40",
+            "properties": [
+                {
+                    "file": "data/40th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        },
+        {
+            "name": "43",
+            "properties": [
+                {
+                    "file": "data/43th_khoroo_shadow.json",
+                    "name": "Shadow",
+                    "color": "red",
+                    "weight": 0,
+                    "fillOpacity": 0.7
+                },
+                {
+                    "file": "data/43th_khoroo_boundary.json",
+                    "name": "Boundary",
+                    "color": "yellow",
+                    "weight": 2,
+                    "fillOpacity": 0
+                }
+            ]
+        }
+    ],
+    "geojson_gers": [
+        {
+            "file": "data/All Households.json",
+            "name": "All Households",
+            "color": "white"
+        }
+    ]
+}

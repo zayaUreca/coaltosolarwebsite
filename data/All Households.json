@@ -1,0 +1,315 @@
+{
+    "type": "FeatureCollection",
+    "name": "All Households.kml",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": { "Name": "Angarag Myagmar" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.8427123, 47.9335461, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Batbold (Nairamdal Villa)" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.752481, 47.920226, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Batnasan Khonichuu" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.8443356, 47.9254872, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Davaajargal Sambuu" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[111.8286622, 43.7239607, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Tsend Ayush" }, "geometry": { "type": "MultiPoint", "coordinates": [[111.8286622, 43.7239607, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Amarsansar Natsagdorj" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.850441, 47.939673, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Ankhtuya Todmandakh" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.933499, 47.972888, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Ariunaa Dambachulter" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.881735, 47.962569, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Batkherlen ." }, "geometry": { "type": "MultiPoint", "coordinates": [[106.93475, 47.998278, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Bolormaa Janchiv" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.874068, 47.963487, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Bolormaa Saindavaa" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.893281, 47.953665, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Bolormaa Khaltarkhuu" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.850998, 47.932635, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Byambadorj Bilguun" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.942064, 48.006474, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Chimedtsogzol Shar" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.931506, 47.999338, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Chuluuntogtokh Dashnyam" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.929129, 48.019433, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Davaakhuu Jalkh" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.937128, 48.009126, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Dulamkhand Batmunkh" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.932667, 47.968737, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Enkhbileg Liisen" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.892242, 47.948743, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Enkhjargal Yadamsuren" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.873855, 47.966015, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Enkhsukh ." }, "geometry": { "type": "MultiPoint", "coordinates": [[106.8420182, 47.9301244, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Erdene-Oyun Tamara" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.934835, 47.97106, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Gantuya Nyamdovdon" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.846889, 47.932455, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Javzandolgor Baasanjav" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.891964, 47.934723, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Khandsuren Dorj" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.929775, 48.012326, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Mandakhnar Baatar" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.934398, 47.995689, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Munkhuu Choidog" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.883101, 47.970974, 0.0]] } },
+        { "type": "Feature", "properties": { "Name": "Naran Mil" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.887775, 47.937529, 0.0]] } },
+        { "type": "Feature", "properties": { "Name": "Norjmaa Dansran" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.887189, 47.961742, 0.0]] } },
+        { "type": "Feature", "properties": { "Name": "Ochgerel Radnaa" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.935763, 48.004893, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Odkhuu Ulaankhuu" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.935056, 48.001667, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Otgonbaatar Lkhagvajav" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.884568, 47.961144, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Otgonbyamba Chuluunbat" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.923748, 47.973869, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Oyunzul Baatar" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.968119, 47.984038, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Purevlanjid Tserentundev" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.967875, 47.984534, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Purevsuren Dagaraa" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.907445, 47.951102, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Purevsuren Natsagdorj" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.922642, 47.969612, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Purevsuren Batbayar" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.884312, 47.962033, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Sambuu Shirnen" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.923933, 47.968684, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Sarantsetseg Maljir" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.89103, 47.934861, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Shinemaa ." }, "geometry": { "type": "MultiPoint", "coordinates": [[106.965306, 47.985139, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Tsetsgee Tsendayush" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.924323, 47.951365, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Tsevelmaa Tamdanshavdan" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.931488, 47.992581, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Tumentsetseg Baljinnyam" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.850023, 47.927884, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Tumen-Ulzii Ganbat" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.968245, 47.985133, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Ulambayar Orgoo" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.923421, 47.971009, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Uuganjargal Baatarkhuu" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.871695, 47.966267, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Ankhtuya Baatarkhuu" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.031922, 48.990107, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Asylbek Narod" }, "geometry": { "type": "MultiPoint", "coordinates": [[104.010111, 49.021679, 0.0]] } },
+        { "type": "Feature", "properties": { "Name": "Batbayar Bolooj" }, "geometry": { "type": "MultiPoint", "coordinates": [[104.025758, 49.022475, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Batbayar Dorjkhorol" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.019682, 49.018668, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Bayartogtokh Dorjpurev" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.016861, 49.023222, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Bolor-Erdene Ganbold" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.0309, 49.027776, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Bulgan B" }, "geometry": { "type": "MultiPoint", "coordinates": [[104.028468, 49.024158, 0.0]] } },
+        { "type": "Feature", "properties": { "Name": "Dolgor Zanzai" }, "geometry": { "type": "MultiPoint", "coordinates": [[104.027172, 49.022908, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Erkhembayar Jamiyansuren" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.024139, 49.021972, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Gan-Erdene Munkhjargal" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.017072, 49.021257, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Hishigjargal Altantsetseg" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.019833, 49.019444, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Jamiyandorj Lonjid" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.015667, 49.020972, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Khasbat Baatarjav" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.023668, 49.020189, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Lkhanzmaa Lkhamjav" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.00338, 49.02719, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Munguntogoo Dovchin" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.019, 49.022722, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Munkhdelger Dashzeveg" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.009797, 49.017608, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Munkh-Erdene Batochir" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.022647, 49.021253, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Munkh-Erdene Dorjdavga" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.023893, 49.021569, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Nyamkhuu Byarvaa" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.026389, 49.020444, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Odonchimeg Choijilsuren" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.014735, 49.021822, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Orgilmaa Lkhagvasuren" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.008342, 48.991551, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Purevjav Lkhamsuren" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.007367, 49.014877, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Sumiya Iishee" }, "geometry": { "type": "MultiPoint", "coordinates": [[104.004999, 49.016167, 0.0]] } },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Urtnasan Battsengel" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[104.012572, 48.994785, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Badamsuren Manlaibaatar" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.806291, 47.968075, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Nyamjargal Bayansan" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.803178, 47.987941, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Odgerel Gantumur" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.805648, 47.973748, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Oyuntsetseg Buyanbaatar" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.700207, 47.919904, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Oyuntuya Khishigdelger" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.796861, 47.95525, 0.0]] }
+        },
+        {
+            "type": "Feature",
+            "properties": { "Name": "Purevkhuu Buyandelger" },
+            "geometry": { "type": "MultiPoint", "coordinates": [[106.849321, 47.949893, 0.0]] }
+        },
+        { "type": "Feature", "properties": { "Name": "Sambuu Urtnasan" }, "geometry": { "type": "MultiPoint", "coordinates": [[106.853684, 47.929371, 0.0]] } }
+    ]
+}

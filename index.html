@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link
+            rel="stylesheet"
+            href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+            integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+            crossorigin=""
+        />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+        <link rel="stylesheet" href="index.css" />
+
+        <style>
+            #map {
+                height: 100vh;
+            }
+        </style>
+        <link href="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.css" rel="stylesheet" />
+    </head>
+    <body>
+        <div class="flex">
+            <aside class="flex-0 z-40 w-64 p-4">
+                <h3 class="mb-4 font-semibold text-gray-900">Households</h3>
+                <ul class="space-y-2 font-medium">
+                    <li class="p-2 rounded-lg">
+                        <label class="flex items-center space-x-3">
+                            <input type="checkbox" name="householdsClass-checkbox" class="w-4 h-4 bg-gray-100 border-none rounded-sm" />
+                            <span>All</span>
+                        </label>
+                    </li>
+                </ul>
+                <hr class="my-4" />
+
+                <h3 class="mb-4 font-semibold text-gray-900">Songinokhairkhan khoroos</h3>
+                <div class="overflow-y-scroll h-[40vh]">
+                    <ul class="space-y-2 font-medium songinoKhairkhanClass"></ul>
+                </div>
+                <hr class="my-4" />
+
+                <h3 class="my-4 font-semibold text-gray-900">Өндөр хүчдлийн дамжуулагч</h3>
+                <ul class="space-y-2 font-medium">
+                    <li class="p-2 rounded-lg">
+                        <label class="flex items-center space-x-3">
+                            <input type="checkbox" name="electricity-checkbox" class="w-4 h-4 bg-gray-100 border-none rounded-sm" />
+                            <span>Кабель шугам</span>
+                        </label>
+                    </li>
+                    <li class="p-2 rounded-lg">
+                        <label class="flex items-center space-x-3">
+                            <input type="checkbox" name="air-checkbox" class="w-4 h-4 bg-gray-100 border-none rounded-sm" />
+                            <span>Агаарын шугам</span>
+                        </label>
+                    </li>
+                </ul>
+                <hr class="my-4" />
+                <button
+                    id="dropdownRadioButton"
+                    data-dropdown-toggle="dropdownDefaultRadio"
+                    class="flex items-center text-gray-900 bg-gray-100 focus:ring-1  w-full rounded-lg text-base p-4 group"
+                    type="button"
+                >
+                <h3 class="font-semibold text-gray-900">Basemap</h3>
+                    <svg class="w-2.5 h-2.5 ms-3" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 10 6">
+                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 1 4 4 4-4" />
+                    </svg>
+                </button>
+                <div
+                    id="dropdownDefaultRadio"
+                    class="z-10 hidden w-48 bg-white divide-y divide-gray-100 rounded-lg shadow-lg dark:bg-gray-700 dark:divide-gray-600"
+                >
+                    <ul class="p-3 space-y-3 text-sm text-gray-700 dark:text-gray-200 baseMapsClass" aria-labelledby="dropdownRadioButton"></ul>
+                </div>
+            </aside>
+            <div id="map" class="flex-1"></div>
+        </div>
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://cdn.jsdelivr.net/npm/flowbite@3.1.2/dist/flowbite.min.js"></script>
+        <script src="index.js" defer type="module"></script>
+    </body>
+</html>

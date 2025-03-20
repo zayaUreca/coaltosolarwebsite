@@ -1,0 +1,17 @@
+/* @import "tailwindcss"; */
+/* @import "flowbite/src/themes/default";
+@plugin "flowbite/plugin";
+@source "./node_modules/flowbite"; */
+
+.popup-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+.popup-table th,
+.popup-table td {
+    padding: 8px;
+    text-align: left;
+}
+.popup-table td:nth-child(2) {
+    text-align: right;
+}

@@ -2,6 +2,8 @@
     "geojson_configs": [
         {
             "name": "3",
+            "ger": "3091",
+            "khashaa": "1809",
             "properties": [
                 {
                     "file": "data/3th_khoroo_boundary.json",
@@ -14,6 +16,8 @@
         },
         {
             "name": "4",
+            "ger": "1809",
+            "khashaa": "949",
             "properties": [
                 {
                     "file": "data/4th_khoroo_boundary.json",
@@ -26,6 +30,8 @@
         },
         {
             "name": "5",
+            "ger": "2314",
+            "khashaa": "1265",
             "properties": [
                 {
                     "file": "data/5th_khoroo_boundary.json",
@@ -38,6 +44,8 @@
         },
         {
             "name": "6",
+            "ger": "2067",
+            "khashaa": "1158",
             "properties": [
                 {
                     "file": "data/6th_khoroo_boundary.json",
@@ -50,6 +58,8 @@
         },
         {
             "name": "7",
+            "ger": "2389",
+            "khashaa": "1337",
             "properties": [
                 {
                     "file": "data/7th_khoroo_boundary.json",
@@ -62,6 +72,8 @@
         },
         {
             "name": "8",
+            "ger": "2564",
+            "khashaa": "1348",
             "properties": [
                 {
                     "file": "data/8th_khoroo_boundary.json",
@@ -74,6 +86,8 @@
         },
         {
             "name": "23",
+            "ger": "2234",
+            "khashaa": "1198",
             "properties": [
                 {
                     "file": "data/23th_khoroo_shadow.json",
@@ -93,6 +107,8 @@
         },
         {
             "name": "26",
+            "ger": "5801",
+            "khashaa": "3116",
             "properties": [
                 {
                     "file": "data/26th_khoroo_boundary.json",
@@ -112,6 +128,8 @@
         },
         {
             "name": "30",
+            "ger": "2210",
+            "khashaa": "1163",
             "properties": [
                 {
                     "file": "data/30th_khoroo_boundary.json",
@@ -131,6 +149,8 @@
         },
         {
             "name": "31",
+            "ger": "3548",
+            "khashaa": "1790",
             "properties": [
                 {
                     "file": "data/31th_khoroo_shadow.json",
@@ -150,6 +170,8 @@
         },
         {
             "name": "36",
+            "ger": "6157",
+            "khashaa": "3545",
             "properties": [
                 {
                     "file": "data/36th_khoroo_shadow.json",
@@ -169,6 +191,8 @@
         },
         {
             "name": "39",
+            "ger": "2902",
+            "khashaa": "1578",
             "properties": [
                 {
                     "file": "data/39th_khoroo_shadow.json",
@@ -189,6 +213,8 @@
 
         {
             "name": "40",
+            "ger": "4627",
+            "khashaa": "2587",
             "properties": [
                 {
                     "file": "data/40th_khoroo_boundary.json",
@@ -201,6 +227,8 @@
         },
         {
             "name": "43",
+            "ger": "2574",
+            "khashaa": "1351",
             "properties": [
                 {
                     "file": "data/43th_khoroo_shadow.json",
@@ -221,8 +249,13 @@
     ],
     "geojson_gers": [
         {
-            "file": "data/All Households.json",
-            "name": "All Households",
+            "file": "data/UNDPHH.json",
+            "name": "UNDP",
+            "color": "white"
+        },
+        {
+            "file": "data/rioTintoHH.json",
+            "name": "Rio Tinto",
             "color": "white"
         }
     ]

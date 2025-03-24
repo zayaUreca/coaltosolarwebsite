@@ -61,7 +61,8 @@ function addMarkers(geojsonFile, layerGroup) {
 }
 
 // Initialize markers layer
-const markersLayer = L.layerGroup();
+const undpmarkersLayer = L.layerGroup();
+const rtmarkersLayer = L.layerGroup();
 const duureg = document.querySelector(".songinoKhairkhanClass");
 
 // Load GeoJSON configurations
@@ -95,7 +96,18 @@ fetch("./data/geojson_config.json")
 
                             const geoJsonLayer = L.geoJSON(data, {
                                 style: { color: property.color, weight: property.weight, fillOpacity: property.fillOpacity }
-                            }).bindPopup(config.name + " khoroo ").addTo(map);
+                            }).bindPopup(`
+                                <h3 style="text-align: center; margin-bottom: 10px;"><b>`+ config.name + ` Хороо</b></h3>
+                                <table class="popup-table">
+                                    <tr>
+                                        <td>Гэр</td>
+                                        <td>`+ config.ger + `</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Хашаа</td>
+                                        <td>`+ config.khashaa + `</td>
+                                    </tr>
+                                </table>` ).openPopup().addTo(map);
                             layerObjects[`${config.name}-${property.name}`] = geoJsonLayer;
 
                             const checkbox = document.createElement("input");
@@ -134,21 +146,30 @@ fetch("./data/geojson_config.json")
         }
 
         if (Array.isArray(data.geojson_gers)) {
-            data.geojson_gers.forEach((config) => {
-                addMarkers(config.file, markersLayer);
-            });
+            addMarkers(data.geojson_gers[0].file, undpmarkersLayer);
+            addMarkers(data.geojson_gers[1].file, rtmarkersLayer);
         } else {
             console.error("geojson_gers is missing or not an array");
         }
 
-        const checkbox = document.querySelector("input[name=householdsClass-checkbox]");
+        const checkbox = document.querySelector("input[name=householdsClass-undp-checkbox]");
         checkbox.addEventListener("change", () => {
             if (checkbox.checked) {
-                map.addLayer(markersLayer);
+                map.addLayer(undpmarkersLayer);
             } else {
-                map.removeLayer(markersLayer);
+                map.removeLayer(undpmarkersLayer);
             }
         });
+
+        const checkbox1 = document.querySelector("input[name=householdsClass-rt-checkbox]");
+        checkbox1.addEventListener("change", () => {
+            if (checkbox1.checked) {
+                map.addLayer(rtmarkersLayer);
+            } else {
+                map.removeLayer(rtmarkersLayer);
+            }
+        });
+
     })
     .catch((error) => console.error("Error loading geojson_config.json:", error));
 

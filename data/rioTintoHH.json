@@ -8,7 +8,7 @@
                 "coordinates": [106.8509888888889, 47.929417, 0]
             },
             "properties": {
-                "name": "Б.Ганбат",
+                "Name": "Б.Ганбат",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -23,7 +23,7 @@
                 "coordinates": [106.853004, 47.92691944444444, 0]
             },
             "properties": {
-                "name": "Д.Хадаа",
+                "Name": "Д.Хадаа",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -38,7 +38,7 @@
                 "coordinates": [106.8480833333333, 47.91994444444444, 0]
             },
             "properties": {
-                "name": "Д.Дэлгэрцэцэг",
+                "Name": "Д.Дэлгэрцэцэг",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -53,7 +53,7 @@
                 "coordinates": [106.8570555555555, 47.93569444444443, 0]
             },
             "properties": {
-                "name": "Ц.Дашдаваа",
+                "Name": "Ц.Дашдаваа",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -68,7 +68,7 @@
                 "coordinates": [106.849, 47.92188888888889, 0]
             },
             "properties": {
-                "name": "Намжил Тодбилгүүн",
+                "Name": "Намжил Тодбилгүүн",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -83,7 +83,7 @@
                 "coordinates": [106.8472222222222, 47.92233333333332, 0]
             },
             "properties": {
-                "name": "Халтай Эрхэмбаяр",
+                "Name": "Халтай Эрхэмбаяр",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -98,7 +98,7 @@
                 "coordinates": [106.8465277777778, 47.93230555555555, 0]
             },
             "properties": {
-                "name": "Д.Цэрэнчимэд",
+                "Name": "Д.Цэрэнчимэд",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -113,7 +113,7 @@
                 "coordinates": [106.8532777777778, 47.94347222222222, 0]
             },
             "properties": {
-                "name": "Сарантуяа",
+                "Name": "Сарантуяа",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -128,7 +128,7 @@
                 "coordinates": [106.8518333333333, 47.92080555555555, 0]
             },
             "properties": {
-                "name": "П.Болдбаатар",
+                "Name": "П.Болдбаатар",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -143,7 +143,7 @@
                 "coordinates": [106.8555555555556, 47.93716666666666, 0]
             },
             "properties": {
-                "name": "Энхдалай",
+                "Name": "Энхдалай",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -158,7 +158,7 @@
                 "coordinates": [106.8504444444444, 47.92063888888889, 0]
             },
             "properties": {
-                "name": "Буянхишиг Дагвадорж",
+                "Name": "Буянхишиг Дагвадорж",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -173,7 +173,7 @@
                 "coordinates": [106.8471666666667, 47.93166666666666, 0]
             },
             "properties": {
-                "name": "Д.Шуурай",
+                "Name": "Д.Шуурай",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -188,7 +188,7 @@
                 "coordinates": [106.8520833333333, 47.93474999999999, 0]
             },
             "properties": {
-                "name": "Батжанцан",
+                "Name": "Батжанцан",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -203,7 +203,7 @@
                 "coordinates": [106.8524166666667, 47.94169444444444, 0]
             },
             "properties": {
-                "name": "Түдэвдагва",
+                "Name": "Түдэвдагва",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -218,7 +218,7 @@
                 "coordinates": [106.8522222222222, 47.94052777777777, 0]
             },
             "properties": {
-                "name": "Бүрэнбат",
+                "Name": "Бүрэнбат",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -233,7 +233,7 @@
                 "coordinates": [106.8498888888889, 47.93494444444444, 0]
             },
             "properties": {
-                "name": "Дамбадорж",
+                "Name": "Дамбадорж",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -248,7 +248,7 @@
                 "coordinates": [106.8533055555556, 47.94374999999999, 0]
             },
             "properties": {
-                "name": "Ганбаяр",
+                "Name": "Ганбаяр",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -263,7 +263,7 @@
                 "coordinates": [106.8526666666667, 47.94047222222222, 0]
             },
             "properties": {
-                "name": "Тунгалаг",
+                "Name": "Тунгалаг",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -278,7 +278,7 @@
                 "coordinates": [106.8547222222222, 47.93558333333333, 0]
             },
             "properties": {
-                "name": "Гантөмөр",
+                "Name": "Гантөмөр",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -293,7 +293,7 @@
                 "coordinates": [106.8559166666667, 47.93452777777778, 0]
             },
             "properties": {
-                "name": "Б.Сүхээ",
+                "Name": "Б.Сүхээ",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -308,7 +308,7 @@
                 "coordinates": [106.85, 47.92777777777778, 0]
             },
             "properties": {
-                "name": "Б.Сумъяабаатар",
+                "Name": "Б.Сумъяабаатар",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -323,7 +323,7 @@
                 "coordinates": [106.8467222222222, 47.91883333333333, 0]
             },
             "properties": {
-                "name": "Л.Мөнхсайхан",
+                "Name": "Л.Мөнхсайхан",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -338,7 +338,7 @@
                 "coordinates": [106.8514444444444, 47.94077777777778, 0]
             },
             "properties": {
-                "name": "Анхбат",
+                "Name": "Анхбат",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -353,7 +353,7 @@
                 "coordinates": [106.8453888888889, 47.93419444444443, 0]
             },
             "properties": {
-                "name": "Э.Мөнхтөр",
+                "Name": "Э.Мөнхтөр",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -368,7 +368,7 @@
                 "coordinates": [106.8512777777778, 47.9335, 0]
             },
             "properties": {
-                "name": "Энхтуяа",
+                "Name": "Энхтуяа",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -383,7 +383,7 @@
                 "coordinates": [106.8520277777778, 47.93463888888888, 0]
             },
             "properties": {
-                "name": "Шинэтөр",
+                "Name": "Шинэтөр",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -398,7 +398,7 @@
                 "coordinates": [106.8498611111111, 47.93788888888888, 0]
             },
             "properties": {
-                "name": "Төрбат",
+                "Name": "Төрбат",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -413,7 +413,7 @@
                 "coordinates": [106.8526666666667, 47.93575, 0]
             },
             "properties": {
-                "name": "Шинэбилэг",
+                "Name": "Шинэбилэг",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -428,7 +428,7 @@
                 "coordinates": [106.8558888888889, 47.93725, 0]
             },
             "properties": {
-                "name": "Алтанбаатар",
+                "Name": "Алтанбаатар",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -443,7 +443,7 @@
                 "coordinates": [106.8490555555556, 47.92430555555556, 0]
             },
             "properties": {
-                "name": "Галсанжав Лхагва",
+                "Name": "Галсанжав Лхагва",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -458,7 +458,7 @@
                 "coordinates": [106.8500277777778, 47.93680555555555, 0]
             },
             "properties": {
-                "name": "Ариунболд",
+                "Name": "Ариунболд",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -473,7 +473,7 @@
                 "coordinates": [106.8513611111111, 47.93575, 0]
             },
             "properties": {
-                "name": "Алтангэрэл",
+                "Name": "Алтангэрэл",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -488,7 +488,7 @@
                 "coordinates": [106.8475555555555, 47.93113888888889, 0]
             },
             "properties": {
-                "name": "М.Эрдэнэтогтох",
+                "Name": "М.Эрдэнэтогтох",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -503,7 +503,7 @@
                 "coordinates": [106.8491111111111, 47.93736111111111, 0]
             },
             "properties": {
-                "name": "Хатанбаатар",
+                "Name": "Хатанбаатар",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -518,7 +518,7 @@
                 "coordinates": [106.8562777777778, 47.93666666666666, 0]
             },
             "properties": {
-                "name": "Чулуунбат",
+                "Name": "Чулуунбат",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -533,7 +533,7 @@
                 "coordinates": [106.8454166666667, 47.93397222222222, 0]
             },
             "properties": {
-                "name": "А.Мөнхсүлд",
+                "Name": "А.Мөнхсүлд",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -548,7 +548,7 @@
                 "coordinates": [106.8505555555555, 47.93119444444444, 0]
             },
             "properties": {
-                "name": "Гомбо Гандулам",
+                "Name": "Гомбо Гандулам",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -563,7 +563,7 @@
                 "coordinates": [106.8498611111111, 47.92566666666667, 0]
             },
             "properties": {
-                "name": "Ч.Алдаржав",
+                "Name": "Ч.Алдаржав",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -578,7 +578,7 @@
                 "coordinates": [106.8512222222222, 47.92527777777778, 0]
             },
             "properties": {
-                "name": "Д.Баяржавхлан",
+                "Name": "Д.Баяржавхлан",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -593,7 +593,7 @@
                 "coordinates": [106.84825, 47.92305555555555, 0]
             },
             "properties": {
-                "name": "З.Пагамдулам",
+                "Name": "З.Пагамдулам",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
@@ -608,7 +608,7 @@
                 "coordinates": [106.8494722222222, 47.92855555555555, 0]
             },
             "properties": {
-                "name": "Р.Эрдэнэбаяр",
+                "Name": "Р.Эрдэнэбаяр",
                 "styleUrl": "#m_ylw-pushpin",
                 "icon-scale": 1.1,
                 "icon-offset": [20, 2],
